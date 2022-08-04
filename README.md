@@ -1,4 +1,4 @@
-# miscible-gas-injection
+# SH EOR DATABASE
 
 ## Project setup
 ```
